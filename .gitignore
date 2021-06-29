@@ -7,7 +7,7 @@ to_look_at/
 Total_data/
 Total_data_generation_script/
 training_results/
-vary_small_samples/
+visualize_inter_resutls.ipynb
 *.h5
 *.npy
 *.tif
