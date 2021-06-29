@@ -3,12 +3,11 @@ Covington_data/
 June21/
 organized_data/
 prediction_results/
-test_two_halves/
 to_look_at/
 Total_data/
 Total_data_generation_script/
 training_results/
 vary_small_samples/
-/*.h5
-/*.npy
-/*.tif
+*.h5
+*.npy
+*.tif
