@@ -2,7 +2,7 @@
 
 ## How to use the notebooks
 1. Download the data from the link below  
-- will be provided
+-- will be provided
 2. Run preprocessing.ipynb notbook for preprocessing part of the experiment
 3. Run experiment_1.ipynb notebook for experiment 1 the results should be in training_results/experiment_1/ folder
 4. Run experiment_2.ipynb notebook for experiment 2 the results should be in training_results/experiment_2/ folder
