@@ -2,10 +2,10 @@
 
 Nattapon Jaroenchai(a, b), Shaowen Wang (a, b, *), Lawrence V. Stanislawski (c), Ethan Shavers (c), E. Lynn Usery (c), Shaohua Wang (a, b), Sophie Wang, and Li Chen (a, b)
 
-a Department of Geography and Geographic Information Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA
-b CyberGIS Center for Advanced Digital and Spatial Studies, University of Illinois at Urbana-Champaign, Urbana, IL, USA
-c U.S. Geology Survey, Center of Excellence for Geospatial Information Science, Rolla, MO, USA
-d School of Geoscience and Info-Physics, Central South University, Changsha, Hunan, China
+a Department of Geography and Geographic Information Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA  
+b CyberGIS Center for Advanced Digital and Spatial Studies, University of Illinois at Urbana-Champaign, Urbana, IL, USA  
+c U.S. Geology Survey, Center of Excellence for Geospatial Information Science, Rolla, MO, USA  
+d School of Geoscience and Info-Physics, Central South University, Changsha, Hunan, China  
 
 
 ## Abstract
