@@ -17,4 +17,14 @@ Streamline network delineation plays a vital role in various scientific discipli
 
 Transfer Learning, Convolutional neural network, Remote Sensing, Streamline detection
 
+## How to use this repository
+
+1. Open Google Colab (https://colab.research.google.com/)
+
+2. Select GitHub as the source of the notebook and enter the URL below in the search. 
+
+> https://github.com/cybergis/transfer_learning_notebooks
+
+3. Open the Main_Notebook.ipynb 
+
 
