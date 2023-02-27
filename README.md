@@ -25,6 +25,16 @@ Transfer Learning, Convolutional neural network, Remote Sensing, Streamline dete
 
 > https://github.com/cybergis/transfer_learning_notebooks
 
-3. Open the Main_Notebook.ipynb 
+3. Download datasets from the URL below:
+
+> https://drive.google.com/drive/folders/1VpHZcX4MRnt_3BUZmBnjldBb8DU18KV-
+
+4. Put the downloaded folders in the samples folder. The folder structure should be 
+
+|samples
+    |--rowancreek
+    |--covington 
+
+5. Open the Main_Notebook.ipynb 
 
 
