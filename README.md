@@ -32,8 +32,8 @@ Transfer Learning, Convolutional neural network, Remote Sensing, Streamline dete
 4. Put the downloaded folders in the samples folder. The folder structure should be 
 
 |samples  
-    |--rowancreek  
-    |--covington   
+    --|rowancreek  
+    --|covington   
 
 5. Open the Main_Notebook.ipynb 
 
