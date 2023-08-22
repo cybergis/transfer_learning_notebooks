@@ -7,14 +7,14 @@
 *<sup>c</sup> U.S. Geology Survey, Center of Excellence for Geospatial Information Science, Rolla, MO, USA*  
 *<sup>d</sup> School of Geoscience and Info-Physics, Central South University, Changsha, Hunan, China*  
 
-Last Updated Date: July 27, 2022
+Last Updated Date: August 10, 2023
 
 ## Datasets
 In this study we have two datasets, Rowan Couty and Covington areas. Each dataset consists of 1,400 training samples and 30 validation samples. The test dataset of each location are created using the entire lower half of the study area. 
 
 To use the dataset in this study with the provided notebooks, please download the data from the link: 
 
-https://drive.google.com/drive/folders/1VpHZcX4MRnt_3BUZmBnjldBb8DU18KV-
+https://drive.google.com/drive/folders/1_Yf-GwVWcnPXmCiQb6D6V_EEf-LGZs2i?usp=drive_link
 
 Then, put the two folder in this samples folder. 
 
