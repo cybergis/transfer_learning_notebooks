@@ -56,5 +56,3 @@ Streamline network delineation is essential for various applications, such as ag
 
 4. **Execution**:
     - Follow the instructions and code snippets in the notebook for analysis and results.
-
-We encourage researchers and enthusiasts to explore, adapt, and build upon this work. For any queries, feel free to raise an issue on the repository or contact the authors directly.
