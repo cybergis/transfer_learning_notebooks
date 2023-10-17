@@ -59,14 +59,18 @@ Streamline network delineation is essential for various applications, such as ag
 
 
 ## Repository File Structure
-.
-├── libs/
-│ └── keras.py - Modified keras.py for fixing a bug in segmenetaion model library.
-├── notebook_data/ - Directory for data used within notebooks.
-├── samples/ - Sample data directory.
-│ └── README.md - Instructions for data downloading and their structure.
-├── Main_Notebook.ipynb - The primary Jupyter notebook for this project.
-├── README.md - The main README for this repository.
-├── Traditional_Methods.ipynb - Notebook focusing on traditional methods of streamline detection.
-├── Train_Models.ipynb - Notebook to train the models in all scenarios.
-└── unet_util.py - Utility functions specific to the U-Net model.
+
+## Repository File Structure
+
+| Type      | Name                         | Description                                                                                          |
+|-----------|------------------------------|------------------------------------------------------------------------------------------------------|
+| Directory | `libs/`                      |                                                                                                      |
+| File      | `libs/keras.py`              | Modified `keras.py` for fixing a bug in segmentation model library.                                  |
+| Directory | `notebook_data/`             | Directory for data used within notebooks.                                                            |
+| Directory | `samples/`                   | Sample data directory.                                                                               |
+| File      | `samples/README.md`          | Instructions for data downloading and their structure.                                               |
+| File      | `Main_Notebook.ipynb`        | The primary Jupyter notebook for this project.                                                       |
+| File      | `README.md`                  | The main README for this repository.                                                                 |
+| File      | `Traditional_Methods.ipynb`  | Notebook focusing on traditional methods of streamline detection.                                    |
+| File      | `Train_Models.ipynb`         | Notebook to train the models in all scenarios.                                                       |
+| File      | `unet_util.py`               | Utility functions specific to the U-Net model.                                                       |
