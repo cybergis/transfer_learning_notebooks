@@ -18,7 +18,7 @@
 - (c) U.S. Geology Survey, Center of Excellence for Geospatial Information Science, Rolla, MO, USA
 - (d) School of Geoscience and Info-Physics, Central South University, Changsha, Hunan, China
 
-**Last Updated**: July, 2023
+**Last Updated**: August 10, 2023
 
 ## Abstract:
 
