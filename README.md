@@ -23,7 +23,7 @@ Streamline network delineation is essential for various applications, such as ag
 
 2. **Dataset Download and Configuration**:
     - Access and download the datasets from the following link:
-      [Dataset Download](https://drive.google.com/drive/folders/1VpHZcX4MRnt_3BUZmBnjldBb8DU18KV-)
+      [Dataset Download](10.6084/m9.figshare.24512698)
     - Ensure the datasets are placed in the 'samples' directory, maintaining the following structure:
       ```
       samples/
