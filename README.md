@@ -1,4 +1,4 @@
-# Transfer Learning with Convolutional Neural Networks for Hydrological Streamline Detection
+# Geospatial transfer learning with convolutional neural networks for hydrological streamline delineation
 
 ## Abstract:
 
